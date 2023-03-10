@@ -1,0 +1,5 @@
+baixar xampp 
+
+colocar o projeto na pasta do xampp
+
+C:\xampp\htdocs
